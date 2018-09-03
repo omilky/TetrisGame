@@ -1,5 +1,5 @@
 /**
- * Polytechnic West Project example
+ * test Polytechnic West Project example
  */
  
 package core;
